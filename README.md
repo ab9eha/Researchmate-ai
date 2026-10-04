@@ -2,6 +2,22 @@
 
 An AI-powered research assistant that helps students and researchers analyze academic papers through automatic summarization, keyword extraction, objective detection, limitation analysis, quiz generation, and interactive visualizations.
 
+## 🌐 Live Demo
+
+Try ResearchMate AI online:
+
+https://researchmate-ai1.streamlit.app/
+
+Upload a research paper PDF and instantly:
+
+* Generate summaries
+* Extract keywords
+* Detect research objectives
+* Identify limitations
+* Generate study quizzes
+* Visualize research insights
+
+
 ## 🚀 Features
 
 * 📄 Upload research papers in PDF format
