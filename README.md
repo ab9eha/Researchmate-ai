@@ -57,7 +57,7 @@ researchmate-ai
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/researchmate-ai.git
+git clone https://github.com/ab9eha/Researchmate-ai.git
 cd researchmate-ai
 ```
 
